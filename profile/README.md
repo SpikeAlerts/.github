@@ -1,9 +1,10 @@
-# AQ_SpikeAlerts
- This is code to make a simple Text Alert System for Air Quality Spikes in Minneapolis.
+# Hello!
+
+This is an effort to make a text alert system for Air Quality Spikes in Minneapolis.
 
 ## Background 
 
-When Canadian wildfires blanketed US cities this summer, air quality rose to the forefront of public concern across the country. In Minneapolis, the fight for the East Phillips Urban Farm also raised air quality as an environmental justice issue in the public consciousness. Asthma and other health issues are clearly higher in Minneapolis neighborhoods which have more polluting facilities, particularly in North Minneapolis, a heavily Black neighborhood, and the East Phillips neighborhood in south Minneapolis, which has a high Indigenous and immigrant population.   
+When Canadian wildfires blanketed US cities in the summer of 2023, air quality rose to the forefront of public concern across the country. In Minneapolis, the fight for the East Phillips Urban Farm also raised air quality as an environmental justice issue in the public consciousness. Asthma and other health issues are clearly higher in Minneapolis neighborhoods which were [redlined](https://legacy.yourwebedition.com/stories/a-city-divided-0) and have more polluting facilities, particularly in North Minneapolis, a majority black neighborhood, and the East Phillips neighborhood in south Minneapolis, which has a high Indigenous and immigrant population. 
 
 Federal regulations that monitor air quality at a regional level leave large gaps in data in terms of knowing what people in a particular block or neighborhood are exposed to. [Community-Based Air Quality Monitoring](https://www.georgetownclimate.org/articles/community-based-air-quality-monitoring-equitable-climate-policy.htm) (CBAQM) projects address those gap by monitoring air quality at a neighborhood level.
 
@@ -67,11 +68,16 @@ Priya Dalal-Whelan
 
 Rob Hendrickson
 
-Special Acknowledgements:
+### Contributors:
 
-Mateo Frumholtz - thank you for your work on building and maintaining the REDCap Surveys
+Mateo Frumholtz - Designing, building, and maintaining the REDCap Surveys
 
-Jake Ford - thank you for brainstorming and helping out with project management
+Jake Ford - Brainstorming
+
+Connor - Organizing/Facilitating Zoom meetings
+
+Doug - SMS Messaging development
+
+Dan - Cloud development
 
 We also acknowledge the preliminary work of the [Quality Air, Quality Cities team](https://github.com/RTGS-Lab/QualityAirQualityCities).
-
