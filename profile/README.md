@@ -20,7 +20,7 @@ We believe clean air is a human right. We believe communities deserve to know ex
 
  For development or personal use
 
-+ Clone the SpikeAlerts repository and follow the Readme steps
++ Clone the [SpikeAlerts](https://github.com/SpikeAlerts/SpikeAlerts) repository and follow the Readme steps
 
 ## Estimated Costs:  
 Funding and deployment: Long term use and deployment requires an organizational sponsor or community fundraising. 
