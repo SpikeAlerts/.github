@@ -26,8 +26,9 @@ We believe clean air is a human right. We believe communities deserve to know ex
 Funding and deployment: Long term use and deployment requires an organizational sponsor or community fundraising. 
 + Database: ~ $50/month for a committed database using a cloud server
 + App: ~ $7/month for a Virtual Machine (Heroku Dyno, Google Compute Engine, ...)
-+ Texts via Twilio:  $.0079/text adds up quick! You may want to apply for a their [Impact Access Program](https://www.twilio.org/support-and-resources/impact-access-program)
-    + Alternatively, alerts could also be sent out via email, a mobile app, or social media to keep costs down.
++ Sending Alerts: The standard rate of $.0079/SMS Segment adds up quick!
+    + One option is to apply for Twilio's [Impact Access Program](https://www.twilio.org/support-and-resources/impact-access-program)
+    + Alternatively, alerts could be sent out via email, a mobile app, or social media to keep costs down.
  
 ## Other Steps to get going:
 + Construct a Website, Sign-Up form, and Report/Observation form
@@ -35,7 +36,7 @@ Funding and deployment: Long term use and deployment requires an organizational 
 + Health training: Folks should be educated on how to respond to alerts and messages. For instance, teachers and parents could sign up for alerts so they are aware when it is not safe to have students/children outside. 
 + Organizing: While protecting ourselves from dangerous air quality in the moment is useful, our ultimate goal is to shut down the facilities and infrastructure that creates these problems. We can imagine this tool being integrated with organizing efforts in a variety of ways –  ultimately this information is only as powerful as the communities that use it. 
 
-## Authors of this Readme
+## Readme Authors
 
 Priya Dalal-Whelan
 
